@@ -11,6 +11,11 @@ public class Main {
         eng.size="1234re";
         eng.weight="6347K";
 
+        Color col= new Color();
+        col.colorLights="True";
+        col.colorTyre="false";
+        col.colorWindows="True";
+
 
     }
 }
